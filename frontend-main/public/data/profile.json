@@ -1,0 +1,15 @@
+{
+   "first_name": "Andreea",
+   "last_name": "Nicoara",
+   "email": "andreea.nicoara1800@gmail.com",
+   "image": "/logo.png",
+   "phone": "0123456789",
+   "city": "Essen",
+   "resume": "resume.pdf",
+   "prev_job": {
+      "job_title": "Web Developer",
+      "location": "Germany"
+   },
+   "languages": ["RO", "EN"],
+   "certifications": []
+}
